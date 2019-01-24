@@ -286,7 +286,7 @@ body{
 } 
 @media (max-width: 767px) {
     .square {
-        margin-bottom: 40px;
+        margin-bottom: 60px;
     }
     .active{
         border: none;
